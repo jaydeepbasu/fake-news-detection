@@ -26,7 +26,7 @@ The project was developed using python 3.8.3 with the following packages.
 
 
 ## Files
-- /notebook/Fake_News_Detection.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling and inference.
+- /notebook/Fake_News_Detection_NLP_LR_NB_DT_RF.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling (Using NLTK library and Decision Tree Classifier, also tried out Naive Bayes, Logistic Regression,Random Forest followed up with hyperparameter tuning of each to find out the best model) and inference.
 - /data/ : source data
 
 
